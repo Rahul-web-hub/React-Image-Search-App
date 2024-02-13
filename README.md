@@ -12,7 +12,7 @@ This project is a React-based web application that allows users to search for im
 ## Technologies Used
 
 - ⚛️ React.js
-- 🌐 External API (mention the name of the API, e.g., Unsplash API, Pixabay API, etc.)
+- 🌐 External API (unsplash image API.)
 - 🎨 CSS for styling
 
 ## Installation
