@@ -47,13 +47,9 @@ This project is a React-based web application that allows users to search for im
 
 ## Credits
 
-- This project utilizes the [name of the API] API to fetch image data.
-- Icon made by [author name] from [www.flaticon.com](https://www.flaticon.com/) (if you have any custom icons or assets used in your project).
-
+- This project utilizes the unsplash API to fetch image data.
+- 
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
