@@ -19,7 +19,7 @@ This project is a React-based web application that allows users to search for im
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/Rahul-web-hub/react-image-search.git
+   git clone https://github.com/Rahul-web-hub/React-Image-Search-App.git
    ```
 
 2. Navigate into the project directory:
@@ -34,7 +34,7 @@ This project is a React-based web application that allows users to search for im
 
 4. Start the development server:
    ```
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and navigate to `http://localhost:3000` to view the app.
