@@ -19,7 +19,7 @@ This project is a React-based web application that allows users to search for im
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/react-image-search.git
+   git clone https://github.com/Rahul-web-hub/react-image-search.git
    ```
 
 2. Navigate into the project directory:
