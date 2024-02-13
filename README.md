@@ -48,7 +48,7 @@ This project is a React-based web application that allows users to search for im
 ## Credits
 
 - This project utilizes the unsplash API to fetch image data.
-- 
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your changes.
