@@ -8,8 +8,11 @@ This project is a React-based web application that allows users to search for im
 - 🖼️ Display search results in a visually appealing manner
 - 💻 Easy-to-use interface
 - 📱 Responsive design for seamless usage across devices
+  
+![Screenshot 2024-02-24 020046](https://github.com/Rahul-web-hub/React-Image-Search-App/assets/120596309/2d3aad2e-1edc-4e5d-ac89-a9d8866a9fb2)
 
 ## Technologies Used
+
 
 - ⚛️ React.js
 - 🌐 External API (unsplash image API.)
